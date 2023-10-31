@@ -3,7 +3,7 @@
 O objetivo é criar a primeira página HTML do curso Full stack da DevMedia.
 
 | Imagem do projeto |
-| :----------------: |
+| :---------------- |
 | ![Projeto Parque Estadual Ilha Bela](/imagem-parque-github.png) |
 
 Esse projeto foi feito com tags básica do HTML:
